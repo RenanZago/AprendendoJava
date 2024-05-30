@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BankAccount/BankAccount.iml" filepath="$PROJECT_DIR$/BankAccount/BankAccount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Company/Company.iml" filepath="$PROJECT_DIR$/Company/Company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Enum-e-Composicao/Enum-e-Composicao.iml" filepath="$PROJECT_DIR$/Enum-e-Composicao/Enum-e-Composicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ex_interface/Ex_interface.iml" filepath="$PROJECT_DIR$/Ex_interface/Ex_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JogoDaVelha/JogoDaVelha.iml" filepath="$PROJECT_DIR$/JogoDaVelha/JogoDaVelha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pilha/Pilha.iml" filepath="$PROJECT_DIR$/Pilha/Pilha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Post/Post.iml" filepath="$PROJECT_DIR$/Post/Post.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quicksort/Quicksort.iml" filepath="$PROJECT_DIR$/Quicksort/Quicksort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rent/Rent.iml" filepath="$PROJECT_DIR$/Rent/Rent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shellsort_Seq_Shell/Shellsort_Seq_Shell.iml" filepath="$PROJECT_DIR$/Shellsort_Seq_Shell/Shellsort_Seq_Shell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimulacaoBancaria/SimulacaoBancaria.iml" filepath="$PROJECT_DIR$/SimulacaoBancaria/SimulacaoBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestsHackerRank/TestsHackerRank.iml" filepath="$PROJECT_DIR$/TestsHackerRank/TestsHackerRank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atvPraticaPOOA1/atvPraticaPOOA1.iml" filepath="$PROJECT_DIR$/atvPraticaPOOA1/atvPraticaPOOA1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atvPraticaPOOA2/atvPraticaPOOA2.iml" filepath="$PROJECT_DIR$/atvPraticaPOOA2/atvPraticaPOOA2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula10/aula10.iml" filepath="$PROJECT_DIR$/aula10/aula10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula11/aula11.iml" filepath="$PROJECT_DIR$/aula11/aula11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula12/aula12.iml" filepath="$PROJECT_DIR$/aula12/aula12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula13/aula13.iml" filepath="$PROJECT_DIR$/aula13/aula13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula14/aula14.iml" filepath="$PROJECT_DIR$/aula14/aula14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula2/aula2.iml" filepath="$PROJECT_DIR$/aula2/aula2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula3/aula3.iml" filepath="$PROJECT_DIR$/aula3/aula3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula4/aula4.iml" filepath="$PROJECT_DIR$/aula4/aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula5/aula5.iml" filepath="$PROJECT_DIR$/aula5/aula5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula6/aula6.iml" filepath="$PROJECT_DIR$/aula6/aula6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula7/aula7.iml" filepath="$PROJECT_DIR$/aula7/aula7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula8/aula8.iml" filepath="$PROJECT_DIR$/aula8/aula8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula9/aula9.iml" filepath="$PROJECT_DIR$/aula9/aula9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aulaJava/aulaJava.iml" filepath="$PROJECT_DIR$/aulaJava/aulaJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculadoraSimples/calculadoraSimples.iml" filepath="$PROJECT_DIR$/calculadoraSimples/calculadoraSimples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composicaoFixacao/composicaoFixacao.iml" filepath="$PROJECT_DIR$/composicaoFixacao/composicaoFixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-hora/data-hora.iml" filepath="$PROJECT_DIR$/data-hora/data-hora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-hora-2/data-hora-2.iml" filepath="$PROJECT_DIR$/data-hora-2/data-hora-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-hora-3/data-hora-3.iml" filepath="$PROJECT_DIR$/data-hora-3/data-hora-3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encontrarMaiorNum/encontrarMaiorNum.iml" filepath="$PROJECT_DIR$/encontrarMaiorNum/encontrarMaiorNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_fixacao_polimorf/ex_fixacao_polimorf.iml" filepath="$PROJECT_DIR$/ex_fixacao_polimorf/ex_fixacao_polimorf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex_resol_polimorf/ex_resol_polimorf.iml" filepath="$PROJECT_DIR$/ex_resol_polimorf/ex_resol_polimorf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode1/leetcode1.iml" filepath="$PROJECT_DIR$/leetcode1/leetcode1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode2/leetcode2.iml" filepath="$PROJECT_DIR$/leetcode2/leetcode2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matriz/matriz.iml" filepath="$PROJECT_DIR$/matriz/matriz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matriz2/matriz2.iml" filepath="$PROJECT_DIR$/matriz2/matriz2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mediaNotas_treinoArrays/mediaNotas_treinoArrays.iml" filepath="$PROJECT_DIR$/mediaNotas_treinoArrays/mediaNotas_treinoArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testandoSplit/testandoSplit.iml" filepath="$PROJECT_DIR$/testandoSplit/testandoSplit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teste23/teste23.iml" filepath="$PROJECT_DIR$/teste23/teste23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalhandoComArquivos/trabalhandoComArquivos.iml" filepath="$PROJECT_DIR$/trabalhandoComArquivos/trabalhandoComArquivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tratamentoExcessoes/tratamentoExcessoes.iml" filepath="$PROJECT_DIR$/tratamentoExcessoes/tratamentoExcessoes.iml" />
+    </modules>
+  </component>
+</project>
